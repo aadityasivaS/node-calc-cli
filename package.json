@@ -1,0 +1,17 @@
+{
+  "name": "n-c-c",
+  "version": "1.0.0",
+  "description": "A awesome nodejs cli calculator",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "awesome",
+    "cli"
+  ],
+  "bin": "src/cli.js",
+  "author": "aadityasiva <me@aadityasiva.cf>",
+  "license": "MIT"
+}
