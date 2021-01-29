@@ -5,7 +5,7 @@ A awesome nodejs cli calculator
 
 ## installation
 ```
-npm install --global n-c-c
+npm install --global @aadityasiva/n-c-c
 ```
 
 ## usage
