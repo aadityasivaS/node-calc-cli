@@ -1,5 +1,5 @@
 {
-  "name": "n-c-c",
+  "name": "@aadityasiva/n-c-c",
   "version": "1.0.0",
   "description": "A awesome nodejs cli calculator",
   "main": "src/cli.js",
