@@ -1,6 +1,6 @@
 {
   "name": "@aadityasiva/n-c-c",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A awesome nodejs cli calculator",
   "main": "src/cli.js",
   "scripts": {
